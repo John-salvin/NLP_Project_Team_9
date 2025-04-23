@@ -94,12 +94,11 @@ wordcloud>=1.8.0
 ```
 telugu-sentiment-analysis/
 ├── Nlp_project_Final.ipynb     # Main notebook with complete pipeline
-├── data/
-│   ├── pos.txt                 # Positive sentiment words in Telugu
-│   ├── neg.txt                 # Negative sentiment words in Telugu
-│   ├── pos_tagging.csv         # Intermediate data with POS tags
-│   ├── final_df.csv            # Processed data with all features
-│   └── processed_train_df.csv  # Normalized features for model training
+├── pos.txt                 # Positive sentiment words in Telugu
+├── neg.txt                 # Negative sentiment words in Telugu
+├── pos_tagging.csv         # Intermediate data with POS tags
+├── final_df.csv            # Processed data with all features
+│── processed_train_df.csv  # Normalized features for model training
 ├── indic_nlp_resources/        # Resources for Telugu NLP processing
 ├── cc.te.300.bin               # FastText Telugu word embeddings
 ├── NotoSansTelugu-Regular.ttf  # Telugu font for visualizations
