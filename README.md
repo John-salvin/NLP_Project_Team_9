@@ -140,6 +140,7 @@ The following resources are automatically downloaded or cloned by the `Nlp_proje
     *   Telugu language models for POS tagging.
 
 ### Generated Files (Created during notebook execution)
+#### *(Unzip these files for execution) 
 
 These intermediate and final data files are created by the `Nlp_project_Final.ipynb` notebook as it processes the data:
 
